@@ -1,7 +1,7 @@
 {
     "model" : {
         "type":                 "Classifier",
-        "architecture":         "MobileNet7_5",
+        "architecture":         "MobileNet7_6",
         "input_size":           224,
         "fully-connected":      [100,50],
         "labels":               [],
